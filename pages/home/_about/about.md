@@ -4,7 +4,7 @@ title: About
 
 ## About Me
 
-<i class="fa fa-snapchat-ghos"></i>
+<i class="fa fa-snapchat-ghost"></i>
 :fas fa-snapchat-ghost:
 ### [:fas fa-snapchat-ghost:](https://www.snapchat.com/add/rene_hampi/)
 
