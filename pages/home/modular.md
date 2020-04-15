@@ -1,5 +1,5 @@
 ---
-title: 'Rene Hampölz'
+title: 'Hampis Projekte'
 menu: Home
 onpage_menu: true
 content:
@@ -9,5 +9,6 @@ content:
         dir: asc
         custom:
             - _header
+            - _about
 ---
 
