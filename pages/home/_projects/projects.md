@@ -4,7 +4,7 @@ title: Projekte
 
 # Projekte
 
-| | | |
-|-|-|-|
-|__Bold Key__   xx| \t Value1 |
-| Normal Key    xx| Value2 |
+| | |
+|:-|-:|
+|__Bold Key__   &nbsp;&nbsp;&nbsp;&nbsp;| Value1 |
+|Bold Key   | Value2 |
