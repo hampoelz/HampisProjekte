@@ -3,12 +3,12 @@ title: Archive
 ---
 
 # Archive
-**Here you can see old (archived) projects that are no longer being developed**
+**Here you can find old _(archived)_ projects which are not longer maintained**
 
 ---
 
 ### RH Utensils Radio
-I've started developing this add-on for the  RH Utensils main program. With the function to playing local and online music (e.g. from YouTube or other providers) and playing various radios from around the world with a beautiful user interface. As I decided to cancel the RH Utensils Main program, I started with a WebApp alternative which can be found on [github.com/rh-utensils/MusicPlayer](https://github.com/rh-utensils/MusicPlayer)
+I've started developing this add-on for the  RH Utensils main program. With the function to playing local and online music _(e.g. from YouTube or other providers)_ and playing various radios from around the world with a beautiful user interface. As I decided to cancel the RH Utensils Main program, I started with a WebApp alternative which can be found on [github.com/rh-utensils/MusicPlayer](https://github.com/rh-utensils/MusicPlayer)
 <br/><br/>
 
 |   |   |
