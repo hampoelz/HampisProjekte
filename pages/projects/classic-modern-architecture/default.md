@@ -1,12 +1,6 @@
 ---
 title: 'Classic Modern Architecture'
 date: '17:34 06/27/2017'
-taxonomy:
-    category:
-        - blog
-    tag:
-        - photography
-        - architecture
 hero_classes: 'text-dark title-h1h2 overlay-light hero-large parallax'
 hero_image: unsplash-luca-bravo.jpg
 blog_url: /projects
