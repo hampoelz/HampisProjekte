@@ -29,3 +29,10 @@ media_order: Logo.png
     </tr>
   </tbody>
 </table> -->
+
+<style>
+img {
+    max-width: 200px;
+    height: auto;
+}
+</style>
