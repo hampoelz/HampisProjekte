@@ -10,6 +10,6 @@ based hobby **web** and **desktop programmer** _(and sometimes **designer**)_ cr
 
 You can find me on the following social media pages:
 
-[:fa fa-github:](https://github.com/hampoelz/) [:fa fa-reddit-alien:](https://www.reddit.com/user/hampoelz/) [:fa fa-twitter:](https://twitter.com/rene_hampi/) [:fa fa-instagram:](https://www.instagram.com/rene_hampi/) [:fa fa-snapchat-ghost:](https://www.snapchat.com/add/rene_hampi/) 
+[:fa fa-github:](https://github.com/hampoelz/) &nbsp; [:fa fa-reddit-alien:](https://www.reddit.com/user/hampoelz/) &nbsp; [:fa fa-twitter:](https://twitter.com/rene_hampi/) &nbsp; [:fa fa-instagram:](https://www.instagram.com/rene_hampi/) &nbsp; [:fa fa-snapchat-ghost:](https://www.snapchat.com/add/rene_hampi/) 
 ===
 
