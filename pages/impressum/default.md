@@ -1,5 +1,7 @@
 ---
 title: 'Impressum & Datenschutz'
+content:
+    items: '@self.modular'
 ---
 
 # Impressum
