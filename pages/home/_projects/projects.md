@@ -1,5 +1,6 @@
 ---
 title: Projects
+media_order: Logo.png
 ---
 
 # Projects
@@ -7,6 +8,6 @@ title: Projects
 Test
 
 | | |
-|:-|-:|
-|__Bold Key__   &nbsp;&nbsp;&nbsp;&nbsp;| Value1 |
+|:- | -:|
+| ![](Logo.png) | **Coming Soon** <br/> Test|
 | Bold Key   | Value2 |
