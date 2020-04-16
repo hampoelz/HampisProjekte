@@ -6,26 +6,43 @@ media_order: Logo.png
 # Projects
 **Here you see an overview of my projects,<br/>with a small description and direct links**
 
-### Hampis Projekte
-<table>
- <tbody>
-    <tr>
-      <td><img src="https://hampoelz.net/user/pages/home/_projects/HampisProjekte.png" style="max-width: 200, hight=" /></td>
-      <td>Hampis Projekte is not really a project, but rather the name of this website and the general term for all projects and sites that I create.</td>
-    </tr>
-  </tbody>
-</table>
+---
+
+<h3 class="project">Hampis Projekte</h3>
+| | | |
+|-|-|-|
+| ![](HampisProjekte.png#project) <br/>&nbsp; | Hampis Projekte isn't really a project, but rather the name of this website and the general term for all projects and sites that I create.<br/><br/>Here you'll find general information such as a list of my projects, the privacy policy and information about me and my social media.<br/>If you have any questions, suggestions or ideas, feel free to contact me. |
 
 ---
 
-<!-- <table>
- <tbody>
-    <tr>
-      <td colspan="2" style="text-align: left;"><h2>Coming Soon</h2></td>
-    </tr>
-    <tr>
-      <td><img src="https://hampoelz.net/user/pages/home/_projects/Logo.png" width="200" /></td>
-      <td>a 16 year old teenager who tries his luck with studying electrical engineering at the Technical college Weiz. Away from school, friends and party I'm an Austria based hobby web and desktop programmer (and sometimes designer) creating awesome open source apps and websites for myself and other People.<br/><br/>You can find me on the following social media pages</td>
-    </tr>
-  </tbody>
-</table> -->
+<h3 class="project">RH Utensils</h3>
+| | | |
+|-|-|-|
+| ![](RH-Utensils.png#project) <br/>&nbsp; | Under the name RH-Utensils I'll publish useful programming stuff that can be used for example in the office or on your private computer.<br/><br/>There you will find **desktop programs**, **mobile apps** and **progressive web application** __(web apps)__.<br/>More informations are available on the GitHub Page [github.com/rh-utensils](https://github.com/rh-utensils) |
+
+---
+
+**Be patient, more will be available soon ...**
+
+<style>
+
+@media(min-width:768px)
+{
+    h3.project {
+        text-align: left !important;
+    }
+}
+
+h3.project {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+img[src*="#project"] {
+    max-width: 200px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+</style>
