@@ -1,5 +1,5 @@
 ---
-title: 'Hampis Projekte'
+title: Home
 menu: Home
 onpage_menu: true
 content:
