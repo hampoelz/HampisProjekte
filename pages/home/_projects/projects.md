@@ -9,5 +9,5 @@ Test
 
 | | |
 |:- | -:|
-| ![](Logo.png) | **Coming Soon** <br/> Test|
+| <img src="Logo.png" alt="drawing" width="200"/> | **Coming Soon** <br/> Test|
 | Bold Key   | Value2 |
