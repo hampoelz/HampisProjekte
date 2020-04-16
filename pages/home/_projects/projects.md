@@ -10,7 +10,7 @@ media_order: Logo.png
 
 | | | |
 |-|-|-|
-| ![](HampisProjekte.png) <br/> &nbsp; | Coming Soon |
+| ![](HampisProjekte.png) <br/> &nbsp; | Hampis Projekte is not really a project, but rather the name of this website and the general term for all projects and sites that I create. |
 
 ---
 
