@@ -10,5 +10,7 @@ content:
         custom:
             - _header
             - _about
+            - _projects
+            - _archive
 ---
 
