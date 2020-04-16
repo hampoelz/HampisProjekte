@@ -4,7 +4,7 @@ media_order: Logo.png
 ---
 
 # Projects
-**Here you see an overview of my projects,<br/>with a small description and direct links**
+**Here you see an overview of my projects, with a small description and direct links**
 
 ---
 
