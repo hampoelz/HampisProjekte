@@ -11,7 +11,7 @@ media_order: Logo.png
 <h3 class="project">Hampis Projekte</h3>
 |   |   |
 | - | - |
-| ![](HampisProjekte.png#project) <br/>&nbsp; | Hampis Projekte isn't really a project, but rather the name of this website and the general term for all projects and sites that I create.<br/><br/>Here you'll find general information such as a list of my projects, the privacy policy and information about me and my social media.<br/>If you have any questions, suggestions or ideas, feel free to contact me. |
+| [![](HampisProjekte.png#project)](https://hampoelz.net/) <br/>&nbsp; | Hampis Projekte isn't really a project, but rather the name of this website and the general term for all projects and sites that I create.<br/><br/>Here you'll find general information such as a list of my projects, the privacy policy and information about me and my social media.<br/>If you have any questions, suggestions or ideas, feel free to contact me. |
 
 ---
 
