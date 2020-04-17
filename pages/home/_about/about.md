@@ -1,5 +1,6 @@
 ---
 title: About
+media_order: ReneHampoelz.webp
 ---
 
 # About Me
@@ -8,7 +9,7 @@ title: About
 
 |   |   |
 | - | - |
-| ![](ReneHamp%C3%B6lz.png#profile) <br/> &nbsp; | a **16 year old teenager** who tries his luck with studying electrical engineering at the [**Technical college Weiz**](https://htlweiz.at/). Away from school, friends and party I'm an Austria based hobby **web** and **desktop programmer** _(and sometimes **designer**)_ creating awesome open source apps and websites for myself and other People. |
+| ![](https://hampoelz.net/user/pages/home/_about/ReneHampoelz.webp#profile) <br/> &nbsp; | a **16 year old teenager** who tries his luck with studying electrical engineering at the [**Technical college Weiz**](https://htlweiz.at/). Away from school, friends and party I'm an Austria based hobby **web** and **desktop programmer** _(and sometimes **designer**)_ creating awesome open source apps and websites for myself and other People. |
 <br/>
 You can find me on the following social media pages:
 
