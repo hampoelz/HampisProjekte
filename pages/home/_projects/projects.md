@@ -18,7 +18,7 @@ media_order: Logo.png
 <h3 class="project">RH Utensils</h3>
 |   |   |
 | - | - |
-| ![](RH-Utensils.png#project) <br/>&nbsp; | Under the name RH-Utensils I'll publish useful programming stuff that can be used for example in the office or on your private computer.<br/><br/>There you will find **desktop programs**, **mobile apps** and **progressive web application** __(web apps)__.<br/>More informations are available on the GitHub Page [github.com/rh-utensils](https://github.com/rh-utensils) |
+| [![](RH-Utensils.png#project)](https://github.com/rh-utensils) <br/>&nbsp; | Under the name RH-Utensils I'll publish useful programming stuff that can be used for example in the office or on your private computer.<br/><br/>There you will find **desktop programs**, **mobile apps** and **progressive web application** __(web apps)__.<br/>More informations are available on the GitHub Page [github.com/rh-utensils](https://github.com/rh-utensils) |
 
 ---
 
