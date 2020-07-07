@@ -27,7 +27,6 @@ aura:
 **Be patient, more will be available soon ...**
 
 <style>
-
 @media(min-width:768px)
 {
     h3.project {
