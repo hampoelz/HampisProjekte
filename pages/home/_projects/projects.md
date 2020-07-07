@@ -1,6 +1,8 @@
 ---
 title: Projects
 media_order: Logo.png
+aura:
+    pagetype: website
 ---
 
 # Projects
@@ -11,7 +13,7 @@ media_order: Logo.png
 <h3 class="project">Hampis Projekte</h3>
 |   |   |
 | - | - |
-| [![](https://hampoelz.net/user/pages/home/_projects/HampisProjekte.webp#project)](https://hampoelz.net/) <br/>&nbsp; | Hampis Projekte isn't really a project, but rather the name of this website and the general term for all projects and sites that I create.<br/><br/>Here you'll find general information such as a list of my projects, the privacy policy and information about me and my social media.<br/>If you have any questions, suggestions or ideas, feel free to contact me. |
+| [![](https://hampoelz.net/user/pages/home/_projects/HampisProjekte.webp#project&logo)](https://hampoelz.net/) <br/>&nbsp; | Hampis Projekte isn't really a project, but rather the name of this website and the general term for all projects and sites that I create.<br/><br/>Here you'll find general information such as a list of my projects, the privacy policy and information about me and my social media.<br/>If you have any questions, suggestions or ideas, feel free to contact me. |
 
 ---
 
@@ -39,10 +41,18 @@ h3.project {
     margin-right: 10px;
 }
 
-img[src*="#project"] {
+img[src*="#project"], img[src*="#project&logo"] {
     max-width: 200px;
     height: auto;
     margin-left: 10px;
     margin-right: 10px;
+}
+
+@media (prefers-color-scheme: light) {
+    img[src*="#project&logo"] {
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        background: url(https://hampoelz.net/user/pages/home/_projects/HampisProjekte-Black.webp#project&logo) no-repeat;
+    }   
 }
 </style>
