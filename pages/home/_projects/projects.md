@@ -49,9 +49,7 @@ img[src*="#project"], img[src*="#project&logo"] {
 
 @media (prefers-color-scheme: light) {
     img[src*="#project&logo"] {
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        background: url(https://hampoelz.net/user/pages/home/_projects/HampisProjekte-Black.webp#project&logo) no-repeat;
+        content: url("https://hampoelz.net/user/pages/home/_projects/HampisProjekte-Black.webp#project&logo");
     }   
 }
 </style>
