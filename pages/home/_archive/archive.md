@@ -80,3 +80,9 @@ A GamesGalaxyMC Labymod Cape.
 | GitHub Repository:&nbsp; | [github.com/hampoelz/GGMC-Cape](https://github.com/hampoelz/GGMC-Cape) |
 
 ---
+
+<style>
+    .container {
+        overflow-wrap: anywhere;
+    }
+</style>
