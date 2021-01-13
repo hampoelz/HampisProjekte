@@ -13,7 +13,7 @@ I've started developing this add-on for the  RH Utensils main program. With the 
 
 |   |   |
 |:- |:- |
-| GitHub Repository:&nbsp; | [github.com/rh-utensils/radio](https://github.com/rh-utensils/radio) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;rh-utensils/&#8203;radio](https://github.com/rh-utensils/radio) |
 
 ---
 
@@ -23,7 +23,7 @@ That should turn into a Windows desktop program which simplify account managemen
 
 |   |   |
 |:- |:- |
-| GitHub Repository:&nbsp; | [github.com/rh-utensils/main](https://github.com/rh-utensils/main) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;rh-utensils/&#8203;main](https://github.com/rh-utensils/main) |
 
 ---
 
@@ -34,7 +34,7 @@ This is a plugin to generate random IDs and UUIDs via placeholders or via comman
 |   |   |
 |:- |:- |
 | SpigotMC Resource:&nbsp; | [>> RandomID Plugin <<](https://www.spigotmc.org/resources/get-player-uuid-random-id-uuid-generator-placeholderapi-support.57738/) |
-| GitHub Repository:&nbsp; | [github.com/hampoelz/RandomID](https://github.com/hampoelz/RandomID) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;hampoelz/&#8203;RandomID](https://github.com/hampoelz/RandomID) |
 
 ---
 
@@ -45,18 +45,18 @@ With this plugin you can clean the chats of players.
 |   |   |
 |:- |:- |
 | SpigotMC Resource:&nbsp; | [>> ChatClear Plugin <<](https://www.spigotmc.org/resources/chatclear.57735/) |
-| GitHub Repository:&nbsp; | [github.com/hampoelz/ChatClear](https://github.com/hampoelz/ChatClear) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;hampoelz/&#8203;ChatClear](https://github.com/hampoelz/ChatClear) |
 
 ---
 
-### SpigotMC MaintenanceMode Plugin
+### SpigotMC Maintenance&#8203;Mode Plugin
 A maintenance mode plugin for Minecraft Server.
 <br/><br/>
 
 |   |   |
 |:- |:- |
 | SpigotMC Resource:&nbsp; | [>> ChatClear Plugin <<](https://www.spigotmc.org/resources/maintenancemode-maxplayer-manager-like-on-mineplex.57736/) |
-| GitHub Repository:&nbsp; | [github.com/hampoelz/MaintenanceMode](https://github.com/hampoelz/MaintenanceMode) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;hampoelz/&#8203;MaintenanceMode](https://github.com/hampoelz/MaintenanceMode) |
 
 ---
 
@@ -67,7 +67,7 @@ A GamesGalaxyMC Labymod Bandana.
 |   |   |
 |:- |:- |
 | SpigotMC Resource:&nbsp; | [>> ChatClear Plugin <<](https://www.spigotmc.org/resources/maintenancemode-maxplayer-manager-like-on-mineplex.57736/) |
-| GitHub Repository:&nbsp; | [github.com/hampoelz/GGMC-Bandana](https://github.com/hampoelz/GGMC-Bandana) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;hampoelz/&#8203;GGMC-Bandana](https://github.com/hampoelz/GGMC-Bandana) |
 
 ---
 
@@ -77,12 +77,6 @@ A GamesGalaxyMC Labymod Cape.
 
 |   |   |
 |:- |:- |
-| GitHub Repository:&nbsp; | [github.com/hampoelz/GGMC-Cape](https://github.com/hampoelz/GGMC-Cape) |
+| GitHub Repository:&nbsp; | [github.com/&#8203;hampoelz/&#8203;GGMC-Cape](https://github.com/hampoelz/GGMC-Cape) |
 
 ---
-
-<style>
-    .container {
-        overflow-wrap: anywhere;
-    }
-</style>
