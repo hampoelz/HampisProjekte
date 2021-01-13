@@ -49,7 +49,7 @@ img[src*="#project"], img[src*="#project&logo"] {
 
 @media (prefers-color-scheme: light) {
     img[src*="#project&logo"] {
-        content: url("https://hampoelz.net/user/pages/home/_projects/HampisProjekte-Black.webp#project&logo");
+       filter: invert(1);
     }   
 }
 </style>
