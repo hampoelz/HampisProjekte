@@ -9,7 +9,7 @@ media_order: ReneHampoelz.jpg
 
 |   |   |
 | - | - |
-| ![](https://hampoelz.net/user/pages/home/_about/ReneHampoelz.webp#profile) <br/> &nbsp; | a **17 year old teenager** who tries his luck with studying electrical engineering at the [**Technical college Weiz**](https://htlweiz.at/). Away from school, friends and party I'm an Austria based hobby **web** and **desktop programmer** _(and sometimes **designer**)_ creating awesome open source apps and websites for myself and other People. |
+| ![](https://hampoelz.net/user/pages/home/_about/ReneHampoelz.jpg#profile) <br/> &nbsp; | a **17 year old teenager** who tries his luck with studying electrical engineering at the [**Technical college Weiz**](https://htlweiz.at/). Away from school, friends and party I'm an Austria based hobby **web** and **desktop programmer** _(and sometimes **designer**)_ creating awesome open source apps and websites for myself and other People. |
 <br/>
 You can find me on the following social media pages:
 
