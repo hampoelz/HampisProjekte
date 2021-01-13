@@ -19,6 +19,11 @@ You can find me on the following social media pages:
 <style>
 img[src*="#profile"] {
     max-width: 200px;
-    height: auto;
+    max-height: 200px;
+    width: 50vw;
+    height: 50vw;
+    object-fit: cover;
+    object-position: 35% 65%; /* Customize according to the picture! */
+    border-radius: 50%;
 }
 </style>
