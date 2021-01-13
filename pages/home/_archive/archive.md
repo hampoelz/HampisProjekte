@@ -56,7 +56,7 @@ A maintenance mode plugin for Minecraft Server.
 |   |   |
 |:- |:- |
 | SpigotMC Resource:&nbsp; | [>> ChatClear Plugin <<](https://www.spigotmc.org/resources/maintenancemode-maxplayer-manager-like-on-mineplex.57736/) |
-| GitHub Repository:&nbsp; ||
+| GitHub Repository:&nbsp; | [github.com/hampoelz/MaintenanceMode](https://github.com/hampoelz/MaintenanceMode) |
 
 ---
 
