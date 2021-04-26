@@ -1,6 +1,25 @@
 ---
 title: About
 media_order: ReneHampoelz.jpg
+aura:
+    pagetype: website
+metadata:
+    'og:url': 'https://hampoelz.net/_about'
+    'og:type': website
+    'og:title': 'About | Hampis Projekte'
+    'og:image': 'https://hampoelz.net/_about/ReneHampoelz.jpg'
+    'og:image:type': image/jpeg
+    'og:image:width': '3265'
+    'og:image:height': '4898'
+    'og:author': 'Hampis Projekte'
+    'twitter:card': summary_large_image
+    'twitter:title': 'About | Hampis Projekte'
+    'twitter:site': '@rene_hampi'
+    'twitter:creator': '@rene_hampi'
+    'twitter:image': 'https://hampoelz.net/_about/ReneHampoelz.jpg'
+    'article:published_time': '2021-01-13T11:45:29+01:00'
+    'article:modified_time': '2021-01-13T11:45:29+01:00'
+    'article:author': 'Hampis Projekte'
 ---
 
 # About Me
@@ -13,7 +32,7 @@ media_order: ReneHampoelz.jpg
 <br/>
 You can find me on the following social media pages:
 
-[:fa fa-github:](https://github.com/hampoelz/) &nbsp; [:fa fa-reddit-alien:](https://www.reddit.com/user/hampoelz/) &nbsp; [:fa fa-twitter:](https://twitter.com/rene_hampi/) &nbsp; [:fa fa-instagram:](https://www.instagram.com/rene_hampi/) &nbsp; [:fa fa-snapchat-ghost:](https://www.snapchat.com/add/rene_hampi/) 
+[:fa fa-github:](https://github.com/hampoelz/) &nbsp; [:fa fa-twitter:](https://twitter.com/rene_hampi/) &nbsp; [:fa fa-instagram:](https://www.instagram.com/rene_hampi/) &nbsp; [:fa fa-snapchat-ghost:](https://www.snapchat.com/add/rene_hampi/) 
 ===
 
 <style>
